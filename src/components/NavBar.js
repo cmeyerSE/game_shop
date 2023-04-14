@@ -10,6 +10,9 @@ function NavBar() {
             <Link to="/products">
             <button><h4>All Products</h4></button>
             </Link>
+            <Link to="/categories">
+                <button><h4> Categories</h4></button>
+            </Link>
             <Link to="/cart">
                 <button><h4>Your Cart</h4></button>
             </Link>
